@@ -3,7 +3,7 @@
 This is a test of MD on GH.
 
 
-# My Intrest
+# My Interest
 
 I am following the setup guide on how to create a new website.
 
