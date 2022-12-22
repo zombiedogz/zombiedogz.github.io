@@ -21,6 +21,7 @@ See my repo for websites I am actively developing and supporting.
 - [https://cardinaltitle.com/](https://cardinaltitle.com/){:target="_blank"}
 - [https://havenslimited.com/](https://havenslimited.com/){:target="_blank"}
 - [https://www.decker-vonau.com/](https://www.decker-vonau.com/){:target="_blank"}
+- [http://friendsministry.org/](http://friendsministry.org/){:target="_blank"}
 
 
 ## Testing
