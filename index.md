@@ -42,14 +42,23 @@ See my repo for websites I am actively developing and supporting.
 - Matrix-re - Custom Commerical Real Estate Property and Lease Management Database.
 - Investment Portfolio Management Database - Custom specialized Data Imports, Tracking investment portfolios, growth, management, fees, and invoicing.
 - Artifact Tracking - Custom Maritime Archeology Artifact Catalog and Tracking Database.
-- Ascend - AT&T Call Detail Tracking - Custom Billing Import, Conversion from AT&T format and radius authentication management to Mainframe accounting software for chargeback to the general ledger accounts.
-- Biscom Fax - Custom MainFrame Integration and Routing.
+- Ascend - AT&T Call Detail Tracking - Custom high volume Billing Import, Conversion from AT&T format and radius authentication management to Mainframe accounting software for chargeback to the general ledger accounts.
+- Biscom Fax - Custom MainFrame Integration and Routing for high volumes.
 - Pager Application - Motorola Paging System Custom integration with server and mainframe applications.
 - Modem Manager Application - Custom application for Motorola Codex RS-232 and v.34 modem bank management, testing, diagnostic application, and database reporting.
-- Telecommunications Infrastructure Database - Custom Database for Cable Tracking, CAD Drawing integration, jack provisions, voice, data, video, and documentation.
+- Telecommunications Infrastructure Database - Custom Database for Cable Tracking, CAD Drawing integration, jack provisions, voice, data, video, and documentation for LAN and WAN Networks.
 - UPS system management, testing, and integration application.
 - Electrical Panel Tacking Database - Custom database for Tracking electrical panels, racks, and outlet locations.
-- PBX Call Detail Integration - Custom software for converting call detail records to a Mainframe database. 
+- PBX Call Detail Integration - Custom software for converting call detail records from 9751 Rolm PBX to an IBM Mainframe database. 
+- Ethernet Network and Token Ring TCP/IP stack custom integration and testing software and diagnostics.
+- 3174 Controller Management - Custom software for managing IBM 3174 controllers.
+- Frame Relay alert system - Custom software for monitoring frame relay networks and creating alerts.
+- Network Control Center Database - Custom database for tracking a network control center and with alerting and reports.
+- Customer survey tracking database - Custom database for tracking surveys.
+- Help Desk Routing database - Custom database for tier 1 call routing.
+- Company Directory - Custom database for managing large company directories and printed directories.
+- User Security Database - Custom database for tracking users and security-related matters.
+- Telecommunication Office Construction Management database - Tracking new and remodeling office construction technology-related matters for voice and data networks and connectivity.
 
 ## Testing
 - [https://zombiedogz.github.io/mm-test/](https://zombiedogz.github.io/mm-test/){:target="_blank"}
