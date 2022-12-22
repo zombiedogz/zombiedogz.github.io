@@ -9,7 +9,7 @@ See my repo for websites I am actively developing and supporting.
 - [https://zombiedogz.github.io/efsnm/](https://zombiedogz.github.io/efsnm/){:target="_blank"}
 - [https://zombiedogz.github.io/enlow](https://zombiedogz.github.io/enlow){:target="_blank"}
 
-## Private in Production - Public facing
+## Private Customer in Production - Public facing
 - [https://www.drxworks.com/](https://www.drxworks.com/){:target="_blank"}
 - [https://www.sfa45.org/](https://www.sfa45.org/){:target="_blank"}
 - [https://www.ohiomast.org/](https://www.ohiomast.org/){:target="_blank"}
@@ -23,12 +23,12 @@ See my repo for websites I am actively developing and supporting.
 - [https://www.decker-vonau.com/](https://www.decker-vonau.com/){:target="_blank"}
 - [http://friendsministry.org/](http://friendsministry.org/){:target="_blank"}
 
-## Private in Production - Internal
+## Private Customer in Production - Internal
 - [https://www.zoho.com/desk/](https://www.zoho.com/desk/){:target="_blank"} Work Order Tracking - Custom Work Order Tracking Database
 - [https://www.zoho.com/crm/](https://www.zoho.com/crm/){:target="_blank"} Custom CRM Application
 
 
-## Archived Public Facing
+## Archived Customer Public Facing
 - [https://web.archive.org/web/20180313163542/https://www.aaoscuba.com/](https://web.archive.org/web/20180313163542/https://www.aaoscuba.com/){:target="_blank"}
 - [https://web.archive.org/web/20180411062420/http://www.aaoswim.com/](https://web.archive.org/web/20180411062420/http://www.aaoswim.com/){:target="_blank"}
 - [https://web.archive.org/web/20170528132934/http://www.selphlaw.com/](https://web.archive.org/web/20170528132934/http://www.selphlaw.com/){:target="_blank"}
@@ -38,7 +38,7 @@ See my repo for websites I am actively developing and supporting.
 - [https://web.archive.org/web/20130205203904/http://www.moldtrax.com/](https://web.archive.org/web/20130205203904/http://www.moldtrax.com/){:target="_blank"}
 - [https://web.archive.org/web/20000408160721/http://www.matrix-re.com/](https://web.archive.org/web/20000408160721/http://www.matrix-re.com/){:target="_blank"}
 
-## Archived Private - Internal Web Application
+## Archived Customer Private - Internal Web Application
 - http://digital-reliance.com Custom New Construction & Remolding closeout documentation tracking.
 - https://web.archive.org/web/20110101091331/http://dabbledb.com/ Custom Customer Relationship Manager and Work Order management.
 - https://web.archive.org/web/20050403165155/http://www.intranets.com/default.asp Custom Customer Relationship Manager and Work Order management.
@@ -50,7 +50,7 @@ See my repo for websites I am actively developing and supporting.
 - [https://www.zoho.com/creator/](https://www.zoho.com/creator/){:target="_blank"} Work Order Tracking - Custom Work Order Tracking Database
 
 
-## Archived Private - Internal Applications.
+## Archived Customer Private - Internal Applications.
 - Work Order Database - Custom Customer Relationship Manager and Work Order management.
 - Estate Tracking Database - Custom Will and Estate Tracking database for Law Firms
 - Box Tracking Database - Custom Banker Box tracking database that tracks matter, physical location, and archiving dates for a law firm.
