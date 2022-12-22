@@ -9,7 +9,7 @@ See my repo for websites I am actively developing and supporting.
 - [https://zombiedogz.github.io/efsnm/](https://zombiedogz.github.io/efsnm/){:target="_blank"}
 - [https://zombiedogz.github.io/enlow](https://zombiedogz.github.io/enlow){:target="_blank"}
 
-## Private in Production
+## Private in Production - Public facing
 - [https://www.drxworks.com/](https://www.drxworks.com/){:target="_blank"}
 - [https://www.sfa45.org/](https://www.sfa45.org/){:target="_blank"}
 - [https://www.ohiomast.org/](https://www.ohiomast.org/){:target="_blank"}
@@ -23,7 +23,13 @@ See my repo for websites I am actively developing and supporting.
 - [https://www.decker-vonau.com/](https://www.decker-vonau.com/){:target="_blank"}
 - [http://friendsministry.org/](http://friendsministry.org/){:target="_blank"}
 
-## Archived Public
+## Private in Production - Internal
+- [https://www.zoho.com/desk/](https://www.zoho.com/desk/){:target="_blank"} Work Order Tracking - Custom Work Order Tracking Database
+- [https://www.zoho.com/crm/](https://www.zoho.com/crm/){:target="_blank"} Custom CRM Application
+- [](){:target="_blank"}
+- [](){:target="_blank"}
+
+## Archived Public Facing
 - [https://web.archive.org/web/20180313163542/https://www.aaoscuba.com/](https://web.archive.org/web/20180313163542/https://www.aaoscuba.com/){:target="_blank"}
 - [https://web.archive.org/web/20180411062420/http://www.aaoswim.com/](https://web.archive.org/web/20180411062420/http://www.aaoswim.com/){:target="_blank"}
 - [https://web.archive.org/web/20170528132934/http://www.selphlaw.com/](https://web.archive.org/web/20170528132934/http://www.selphlaw.com/){:target="_blank"}
@@ -34,10 +40,24 @@ See my repo for websites I am actively developing and supporting.
 - [https://web.archive.org/web/20000408160721/http://www.matrix-re.com/](https://web.archive.org/web/20000408160721/http://www.matrix-re.com/){:target="_blank"}
 
 ## Archived Private - Internal Web Application
-- http://digital-reliance.com
+- http://digital-reliance.com Custom New Construction & Remolding closeout documentation tracking.
+- https://web.archive.org/web/20110101091331/http://dabbledb.com/ Custom Customer Relationship Manager and Work Order management.
+- https://web.archive.org/web/20050403165155/http://www.intranets.com/default.asp Custom Customer Relationship Manager and Work Order management.
+- https://web.archive.org/web/20081217211617/http://www.coghead.com/ Custom Customer Relationship Manager and Work Order management.
+- [https://www.zoho.com/creator/](https://www.zoho.com/creator/){:target="_blank"} Custom New Construction & Remolding closeout documentation tracking.
+- [https://www.zoho.com/creator/](https://www.zoho.com/creator/){:target="_blank"} Custom Membership Tracking Database
+- [https://www.zoho.com/creator/](https://www.zoho.com/creator/){:target="_blank"} Custom Mileage Tracking
+- [https://www.zoho.com/creator/](https://www.zoho.com/creator/){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
+- [https://www.zoho.com/creator/](https://www.zoho.com/creator/){:target="_blank"} Work Order Tracking - Custom Work Order Tracking Database
+
 
 ## Archived Private - Internal Applications.
+- Work Order Database - Custom Customer Relationship Manager and Work Order management.
+- Estate Tracking Database - Custom Will and Estate Tracking database for Law Firms
+- Box Tracking Database - Custom Banker Box tracking database that tracks matter, physical location, and archiving dates for a law firm.
 - Moldtrax - Commercial resale - Plastic Injection Mold Maintenance Database and Procomps Profile integration.
+- Radio Freq Tracker - Custom RF Database for FCC Frequencies.
+- ScubaTrax - Custom Scuba Diving Tracking database - Tracking Dives, Location, Equipment, Service, Training, and Insurance.
 - Title Search Management Database - Custom application for collecting real-time data from title researchers and creating specialized reports for clients.
 - Matrix-re - Custom Commerical Real Estate Property and Lease Management Database.
 - Investment Portfolio Management Database - Custom specialized Data Imports, Tracking investment portfolios, growth, management, fees, and invoicing.
@@ -60,6 +80,12 @@ See my repo for websites I am actively developing and supporting.
 - User Security Database - Custom database for tracking users and security-related matters.
 - Telecommunication Office Construction Management database - Tracking new and remodeling office construction technology-related matters for voice and data networks and connectivity.
 - Data Center Construction tracking database - Custom database for tracking the construction of a Mainframe, Telecommunications, and data networks.
+- Call Center DR Database - Custom Call Center Disaster and Recovery and Product recall database with integration with AT&T Call Detail OCDD/RT.
+- PictureTel Video Conferencing Database - Custom Database for tracking and scheduling video conferences for conference rooms and auditoriums.
+- Telcom Inventory Database - Custom database to track telecommunications and data network hardware and other devices.
+- EZQ Print Sharing Database - Custom database to track EZQ print sharing devices.
+- Cynlinder Tracking Database - Custom database for Visual Inspection tracking of Scuba Cylinders, hydrostatic testing and customers.
+- Hazmat Tracking Database - Hazardous Material Handling Training and OSH Compliance Tracking Database. 
 
 ## Testing
 - [https://zombiedogz.github.io/mm-test/](https://zombiedogz.github.io/mm-test/){:target="_blank"}
