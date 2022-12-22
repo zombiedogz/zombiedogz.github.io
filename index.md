@@ -26,8 +26,7 @@ See my repo for websites I am actively developing and supporting.
 ## Private in Production - Internal
 - [https://www.zoho.com/desk/](https://www.zoho.com/desk/){:target="_blank"} Work Order Tracking - Custom Work Order Tracking Database
 - [https://www.zoho.com/crm/](https://www.zoho.com/crm/){:target="_blank"} Custom CRM Application
-- [](){:target="_blank"}
-- [](){:target="_blank"}
+
 
 ## Archived Public Facing
 - [https://web.archive.org/web/20180313163542/https://www.aaoscuba.com/](https://web.archive.org/web/20180313163542/https://www.aaoscuba.com/){:target="_blank"}
