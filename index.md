@@ -23,6 +23,14 @@ See my repo for websites I am actively developing and supporting.
 - [https://www.decker-vonau.com/](https://www.decker-vonau.com/){:target="_blank"}
 - [http://friendsministry.org/](http://friendsministry.org/){:target="_blank"}
 
+## Archived
+- [https://web.archive.org/web/20180313163542/https://www.aaoscuba.com/](https://web.archive.org/web/20180313163542/https://www.aaoscuba.com/){:target="_blank"}
+- [https://web.archive.org/web/20180411062420/http://www.aaoswim.com/](https://web.archive.org/web/20180411062420/http://www.aaoswim.com/){:target="_blank"}
+- [https://web.archive.org/web/20170528132934/http://www.selphlaw.com/](https://web.archive.org/web/20170528132934/http://www.selphlaw.com/){:target="_blank"}
+- [https://web.archive.org/web/20160325172147/http://www.aquaticadventuresohio.com/](https://web.archive.org/web/20160325172147/http://www.aquaticadventuresohio.com/){:target="_blank"}
+- [https://web.archive.org/web/20070212212237/http://www.efsnm.com/](https://web.archive.org/web/20070212212237/http://www.efsnm.com/){:target="_blank"}
+- [https://web.archive.org/web/20020331052902/http://www.askwatersports.com/](https://web.archive.org/web/20020331052902/http://www.askwatersports.com/){:target="_blank"}
+- [https://web.archive.org/web/20130205203904/http://www.moldtrax.com/](https://web.archive.org/web/20130205203904/http://www.moldtrax.com/){:target="_blank"}
 
 ## Testing
 - [https://zombiedogz.github.io/mm-test/](https://zombiedogz.github.io/mm-test/){:target="_blank"}
