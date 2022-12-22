@@ -37,17 +37,19 @@ See my repo for websites I am actively developing and supporting.
 - http://digital-reliance.com
 
 ## Archived Private - Internal Applications.
-- Moldtrax - Plastic Injection Mold Maintenance Database.
-- Title Search Management Database
-- Matrix-re - Commerical Real Estate Property and Lease Management Database.
-- Investment Portfolio Management Database - Data Imports, Tracking investment portfolios, growth, management, fees, and invoicing.
-- Admat Artifacts - Maritime Archeology Artifact Catalog and Tracking Database.
-- Ascend - AT&T Call Detail Tracking - Custom Billing Import, Conversion from AT&T format and radius authentication management to Mainframe accounting software for chargeback.
+- Moldtrax - Commercial resale - Plastic Injection Mold Maintenance Database and Procomps Profile integration.
+- Title Search Management Database - Custom application for collecting real-time data from title researchers and creating specialized reports for clients.
+- Matrix-re - Custom Commerical Real Estate Property and Lease Management Database.
+- Investment Portfolio Management Database - Custom specialized Data Imports, Tracking investment portfolios, growth, management, fees, and invoicing.
+- Artifact Tracking - Custom Maritime Archeology Artifact Catalog and Tracking Database.
+- Ascend - AT&T Call Detail Tracking - Custom Billing Import, Conversion from AT&T format and radius authentication management to Mainframe accounting software for chargeback to the general ledger accounts.
 - Biscom Fax - Custom MainFrame Integration and Routing.
-- Motorola Paging System Custom integration with server and mainframe applications.
-- Motorola Codex RS-232 and v.34 modem bank management, testing, diagnostic application, and database reporting.
-- Telecommunications Infrastructure Database - Cable Tracking, CAD Drawing integration, jack provisions, and documentation.
+- Pager Application - Motorola Paging System Custom integration with server and mainframe applications.
+- Modem Manager Application - Custom application for Motorola Codex RS-232 and v.34 modem bank management, testing, diagnostic application, and database reporting.
+- Telecommunications Infrastructure Database - Custom Database for Cable Tracking, CAD Drawing integration, jack provisions, voice, data, video, and documentation.
 - UPS system management, testing, and integration application.
+- Electrical Panel Tacking Database - Custom database for Tracking electrical panels, racks, and outlet locations.
+- PBX Call Detail Integration - Custom software for converting call detail records to a Mainframe database. 
 
 ## Testing
 - [https://zombiedogz.github.io/mm-test/](https://zombiedogz.github.io/mm-test/){:target="_blank"}
