@@ -1,14 +1,14 @@
-# MD Web Testing
+# Zombiedogz
 
-This is a test of MD on GH.
+My development spot on the intertubes...
 
 
-# My Interest
+# Web Development
 
-I am following the setup guide on how to create a new website.
+See my repo for websites I am actively developing and supporting.
 
 
 # My Blog
 
-I do not have one but will create on. I think I like MD.
+My thoughts about stuff...
 
