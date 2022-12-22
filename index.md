@@ -30,5 +30,5 @@ Production
 
 # My Blog
 
-My thoughts about stuff...
+My thoughts about stuff...to be continued...
 
