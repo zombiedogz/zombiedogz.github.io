@@ -1,4 +1,4 @@
-[Home](https://zombiedogz.github.io/)
+ {% include navbar.md %}
 
 # About Zombiedogz
 
