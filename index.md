@@ -1,3 +1,5 @@
+ {% include navbar.md %}
+
 # Zombiedogz
 
 My development spot on the intertubes...[About the ZombieDogz](https://zombiedogz.github.io/about.html)
