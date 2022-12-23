@@ -16,3 +16,5 @@ Max knew that he had to get his hands on this cure and use it to save the world.
 As he tumbled through the time-space continuum, Max realized that his journey was far from over. There were still many challenges and dangers ahead, and he would have to continue fighting to save the world from the zombie plague.
 
 His fight continues....
+
+[Home](https://zombiedogz.github.io/)
