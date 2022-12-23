@@ -1,3 +1,4 @@
+[Home](https://zombiedogz.github.io/)
 
 # About Zombiedogz
 
@@ -17,4 +18,4 @@ As he tumbled through the time-space continuum, Max realized that his journey wa
 
 His fight continues....
 
-[Home](https://zombiedogz.github.io/)
+
