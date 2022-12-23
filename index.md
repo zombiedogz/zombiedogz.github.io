@@ -1,6 +1,6 @@
 # Zombiedogz
 
-My development spot on the intertubes...
+My development spot on the intertubes...[About the ZombieDogz](https://zombiedogz.github.io/about.html)
 
 
 # Web Development - Actively in development
