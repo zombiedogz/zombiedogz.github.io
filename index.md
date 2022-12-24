@@ -1,8 +1,9 @@
 ---
 title: Zombiedogz
+layout: default
 ---
 
-{% include navbar.md %}
+
 
 # Zombiedogz
 
