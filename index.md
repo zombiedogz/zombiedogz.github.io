@@ -1,4 +1,8 @@
- {% include navbar.md %}
+---
+title: Zombiedogz
+---
+
+{% include navbar.md %}
 
 # Zombiedogz
 
