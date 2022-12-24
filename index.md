@@ -93,8 +93,3 @@ My development spot on the intertubes...[About the ZombieDogz](https://zombiedog
 - [https://zombiedogz.github.io/mm-test/](https://zombiedogz.github.io/mm-test/){:target="_blank"}
 - [https://zombiedogz.github.io/Doc_test/](https://zombiedogz.github.io/Doc_test/){:target="_blank"}
 
-
-# My Blog
-
-My thoughts about stuff...to be continued...
-
