@@ -1,4 +1,7 @@
- {% include navbar.md %}
+---
+title: About
+layout: default
+---
 
 # About Zombiedogz
 
