@@ -42,7 +42,7 @@ My development spot on the intertubes...[About the ZombieDogz](https://zombiedog
 - [https://web.archive.org/web/20000408160721/http://www.matrix-re.com/](https://web.archive.org/web/20000408160721/http://www.matrix-re.com/){:target="_blank"}
 
 ## Archived Customer Private Apps - Internal Web Application
-- [http://digital-reliance.com](http://digital-reliance.com){:target="_blank"} Custom New Construction & Remolding closeout documentation tracking.
+- [https://digital-reliance.com](https://digital-reliance.com){:target="_blank"} Custom New Construction & Remolding closeout documentation tracking.
 - [https://web.archive.org/web/20110101091331/http://dabbledb.com/](https://web.archive.org/web/20110101091331/http://dabbledb.com/){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
 - [https://web.archive.org/web/20050403165155/http://www.intranets.com/default.asp](https://web.archive.org/web/20050403165155/http://www.intranets.com/default.asp){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
 - [https://web.archive.org/web/20081217211617/http://www.coghead.com/](https://web.archive.org/web/20081217211617/http://www.coghead.com/){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
