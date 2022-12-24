@@ -3,3 +3,8 @@ description: Testing and Development of Zombie bits.
 twitter_username: zombiedogz
 github_username: zombiedogz
 theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
