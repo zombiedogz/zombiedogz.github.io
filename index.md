@@ -3,7 +3,7 @@ title: Zombiedogz
 layout: default
 ---
 
-### My development spot on the intertubes...[About the ZombieDogz](https://zombiedogz.github.io/about.html)
+### My development spot on the intertubes...
 
 
 # Web Development - Actively in development
