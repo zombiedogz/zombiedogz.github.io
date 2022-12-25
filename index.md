@@ -12,7 +12,7 @@ layout: default
 
 ## Private Customer Apps in Production - Public facing
 - [DRXWorks](https://www.drxworks.com/){:target="_blank"}
-- [Special Forces Assoication - Chapter 45](https://www.sfa45.org/){:target="_blank"}
+- [Special Forces Association - Chapter 45](https://www.sfa45.org/){:target="_blank"}
 - [MAST](https://www.ohiomast.org/){:target="_blank"}
 - [Willis Law](https://www.willislawohio.com/){:target="_blank"}
 - [ADMAT](https://www.admat.org.uk/){:target="_blank"}
