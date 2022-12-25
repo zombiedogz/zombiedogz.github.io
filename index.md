@@ -12,17 +12,17 @@ layout: default
 
 ## Private Customer Apps in Production - Public facing
 - [DRXWorks](https://www.drxworks.com/){:target="_blank"}
-- [https://www.sfa45.org/](https://www.sfa45.org/){:target="_blank"}
-- [https://www.ohiomast.org/](https://www.ohiomast.org/){:target="_blank"}
-- [https://www.willislawohio.com/](https://www.willislawohio.com/){:target="_blank"}
-- [https://www.admat.org.uk/](https://www.admat.org.uk/){:target="_blank"}
-- [https://efsnm.com/](https://efsnm.com/){:target="_blank"}
-- [https://www.standleyllp.com/](https://www.standleyllp.com/){:target="_blank"}
-- [https://www.selphlaw.com/](https://www.selphlaw.com/){:target="_blank"}
-- [https://cardinaltitle.com/](https://cardinaltitle.com/){:target="_blank"}
-- [https://havenslimited.com/](https://havenslimited.com/){:target="_blank"}
-- [https://www.decker-vonau.com/](https://www.decker-vonau.com/){:target="_blank"}
-- [http://friendsministry.org/](http://friendsministry.org/){:target="_blank"}
+- [Special Forces Assoication - Chapter 45](https://www.sfa45.org/){:target="_blank"}
+- [MAST](https://www.ohiomast.org/){:target="_blank"}
+- [Willis Law](https://www.willislawohio.com/){:target="_blank"}
+- [ADMAT](https://www.admat.org.uk/){:target="_blank"}
+- [EFS Network Management](https://efsnm.com/){:target="_blank"}
+- [Standley Law Group](https://www.standleyllp.com/){:target="_blank"}
+- [Selph Law](https://www.selphlaw.com/){:target="_blank"}
+- [Cardinal Title](https://cardinaltitle.com/){:target="_blank"}
+- [Havens Limited](https://havenslimited.com/){:target="_blank"}
+- [Decker Vonau](https://www.decker-vonau.com/){:target="_blank"}
+- [Friends Ministry](http://friendsministry.org/){:target="_blank"}
 
 ## Private Customer Apps in Production - Internal
 - [https://www.zoho.com/desk/](https://www.zoho.com/desk/){:target="_blank"} Work Order Tracking - Custom Work Order Tracking Database
