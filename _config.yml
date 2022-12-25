@@ -1,15 +1,15 @@
-title: zombiedogz
-description: Testing and Development of Zombie bits.
+title:              zombiedogz
+description:        Testing and Development of Zombie bits.
 url:                "https://zombiedogz.github.io"
 baseurl:            "/"
 
 
 # Social Profiles
-twitter_username: zombiedogz
-github_username: zombiedogz
+twitter_username:   zombiedogz
+github_username:    zombiedogz
 
 # Prebuilt Themes
-theme: jekyll-theme-cayman
+# theme:             jekyll-theme-cayman
 
 
 # default settings
