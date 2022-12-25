@@ -11,7 +11,7 @@ layout: default
 - [https://zombiedogz.github.io/enlow](https://zombiedogz.github.io/enlow){:target="_blank"}
 
 ## Private Customer Apps in Production - Public facing
-- [https://www.drxworks.com/](https://www.drxworks.com/){:target="_blank"}
+- [DRXWorks](https://www.drxworks.com/){:target="_blank"}
 - [https://www.sfa45.org/](https://www.sfa45.org/){:target="_blank"}
 - [https://www.ohiomast.org/](https://www.ohiomast.org/){:target="_blank"}
 - [https://www.willislawohio.com/](https://www.willislawohio.com/){:target="_blank"}
