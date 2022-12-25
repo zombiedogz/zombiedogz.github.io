@@ -1,8 +1,8 @@
-title:              zombiedogz
+title:              Zombiedogz
 description:        Testing and Development of Zombie bits.
 url:                "https://zombiedogz.github.io"
 baseurl:            "/"
-
+author:             Zombiedogz
 
 # Social Profiles
 twitter_username:   zombiedogz
