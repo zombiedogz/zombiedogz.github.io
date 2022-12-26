@@ -25,30 +25,30 @@ layout: default
 - [Friends Ministry](http://friendsministry.org/){:target="_blank"}
 
 ## Private Customer Apps in Production - Internal
-- [https://www.zoho.com/desk/](https://www.zoho.com/desk/){:target="_blank"} Work Order Tracking - Custom Work Order Tracking Database
-- [https://www.zoho.com/crm/](https://www.zoho.com/crm/){:target="_blank"} Custom CRM Application
+- [Zoho Desk](https://www.zoho.com/desk/){:target="_blank"} Work Order Tracking - Custom Work Order Tracking Database
+- [Zoho CRM](https://www.zoho.com/crm/){:target="_blank"} Custom CRM Application
 
 
 ## Archived Customer Apps Public Facing
-- [https://web.archive.org/web/20180313163542/https://www.aaoscuba.com/](https://web.archive.org/web/20180313163542/https://www.aaoscuba.com/){:target="_blank"}
-- [https://web.archive.org/web/20180411062420/http://www.aaoswim.com/](https://web.archive.org/web/20180411062420/http://www.aaoswim.com/){:target="_blank"}
-- [https://web.archive.org/web/20170528132934/http://www.selphlaw.com/](https://web.archive.org/web/20170528132934/http://www.selphlaw.com/){:target="_blank"}
-- [https://web.archive.org/web/20160325172147/http://www.aquaticadventuresohio.com/](https://web.archive.org/web/20160325172147/http://www.aquaticadventuresohio.com/){:target="_blank"}
-- [https://web.archive.org/web/20070212212237/http://www.efsnm.com/](https://web.archive.org/web/20070212212237/http://www.efsnm.com/){:target="_blank"}
-- [https://web.archive.org/web/20020331052902/http://www.askwatersports.com/](https://web.archive.org/web/20020331052902/http://www.askwatersports.com/){:target="_blank"}
-- [https://web.archive.org/web/20130205203904/http://www.moldtrax.com/](https://web.archive.org/web/20130205203904/http://www.moldtrax.com/){:target="_blank"}
-- [https://web.archive.org/web/20000408160721/http://www.matrix-re.com/](https://web.archive.org/web/20000408160721/http://www.matrix-re.com/){:target="_blank"}
+- [AAOScuba.com](https://web.archive.org/web/20180313163542/https://www.aaoscuba.com/){:target="_blank"}
+- [AAOSwim](https://web.archive.org/web/20180411062420/http://www.aaoswim.com/){:target="_blank"}
+- [Selphlaw.com](https://web.archive.org/web/20170528132934/http://www.selphlaw.com/){:target="_blank"}
+- [AquaticAdventuresOhio.com](https://web.archive.org/web/20160325172147/http://www.aquaticadventuresohio.com/){:target="_blank"}
+- [EFSNM.com](https://web.archive.org/web/20070212212237/http://www.efsnm.com/){:target="_blank"}
+- [ASKWatersports.com](https://web.archive.org/web/20020331052902/http://www.askwatersports.com/){:target="_blank"}
+- [Moldtrax.com](https://web.archive.org/web/20130205203904/http://www.moldtrax.com/){:target="_blank"}
+- [Matrix-re.com](https://web.archive.org/web/20000408160721/http://www.matrix-re.com/){:target="_blank"}
 
 ## Archived Customer Private Apps - Internal Web Application
-- [https://digital-reliance.com](https://digital-reliance.com){:target="_blank"} Custom New Construction & Remolding closeout documentation tracking.
-- [https://web.archive.org/web/20110101091331/http://dabbledb.com/](https://web.archive.org/web/20110101091331/http://dabbledb.com/){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
-- [https://web.archive.org/web/20050403165155/http://www.intranets.com/default.asp](https://web.archive.org/web/20050403165155/http://www.intranets.com/default.asp){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
-- [https://web.archive.org/web/20081217211617/http://www.coghead.com/](https://web.archive.org/web/20081217211617/http://www.coghead.com/){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
-- [https://www.zoho.com/creator/](https://www.zoho.com/creator/){:target="_blank"} Custom New Construction & Remolding closeout documentation tracking.
-- [https://www.zoho.com/creator/](https://www.zoho.com/creator/){:target="_blank"} Custom Membership Tracking Database
-- [https://www.zoho.com/creator/](https://www.zoho.com/creator/){:target="_blank"} Custom Mileage Tracking
-- [https://www.zoho.com/creator/](https://www.zoho.com/creator/){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
-- [https://www.zoho.com/creator/](https://www.zoho.com/creator/){:target="_blank"} Work Order Tracking - Custom Work Order Tracking Database
+- [Digital-Reliance.com](https://digital-reliance.com){:target="_blank"} Custom New Construction & Remolding closeout documentation tracking.
+- [Dabbledb.com](https://web.archive.org/web/20110101091331/http://dabbledb.com/){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
+- [Intranets.com](https://web.archive.org/web/20050403165155/http://www.intranets.com/default.asp){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
+- [Coghead.com](https://web.archive.org/web/20081217211617/http://www.coghead.com/){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
+- [Zoho Creator](https://www.zoho.com/creator/){:target="_blank"} Custom New Construction & Remolding closeout documentation tracking.
+- [Zoho Creator](https://www.zoho.com/creator/){:target="_blank"} Custom Membership Tracking Database
+- [Zoho Creator](https://www.zoho.com/creator/){:target="_blank"} Custom Mileage Tracking
+- [Zoho Creator](https://www.zoho.com/creator/){:target="_blank"} Custom Customer Relationship Manager and Work Order management.
+- [Zoho Creator](https://www.zoho.com/creator/){:target="_blank"} Work Order Tracking - Custom Work Order Tracking Database
 
 
 ## Archived Customer Private Apps - Internal Applications.
