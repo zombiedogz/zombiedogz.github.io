@@ -6,12 +6,28 @@ body {
     color:        darkolivegreen;
   }
 
-  h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6 {
     padding-top:    20px;
     padding-left:   20px;
-  }
+}
 
-  p {
+p {
     padding-left:   20px;
     padding-right:  20px;
-  }
+}
+ 
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+} 
