@@ -3,8 +3,8 @@
 
 body {
     font-family:    Arial, sans-serif;
-    color:        darkolivegreen;
-    background-color: darkslateblue;
+    color:        rgb(212, 216, 205);
+    background-color: rgb(79, 76, 92);
   }
 
 h1,h2,h3,h4,h5,h6 {
@@ -18,7 +18,7 @@ p {
 }
  
 a:link {
-  color: green;
+  color: rgb(127, 134, 127);
 }
 
 a:visited {
@@ -27,11 +27,11 @@ a:visited {
 
 a:hover {
   color: hotpink;
-  background:#66ff66;
+  background:#2e812e;
 }
 
 a:active {
-  color: blue;
+  color: rgb(130, 130, 155);
 } 
 
 ul {
