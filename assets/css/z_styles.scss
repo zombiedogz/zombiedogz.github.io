@@ -1,11 +1,6 @@
 ---
 ---
 
-.z_header h1 {
-  padding-top:    0px;
-
-}
-
 body {
     font-family:    Arial, sans-serif;
     color:        rgb(212, 216, 205);
@@ -45,4 +40,9 @@ ul {
 
 .spacer {
   padding: 20px;
+}
+
+.z_header h1 {
+  padding-top:    0px;
+  padding-left:   0px;
 }
