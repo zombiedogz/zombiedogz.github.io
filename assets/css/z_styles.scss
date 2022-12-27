@@ -17,15 +17,16 @@ p {
 }
  
 a:link {
-  color: red;
+  color: green;
 }
 
 a:visited {
-  color: green;
+  color: red;
 }
 
 a:hover {
   color: hotpink;
+  background:#66ff66;
 }
 
 a:active {
