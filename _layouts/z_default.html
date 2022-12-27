@@ -7,19 +7,20 @@
     {% seo %}
 
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
+
+    {% include sass/z_style.scss %}
 
   </head>
   
-{% include head.html %}
+{% include z_head.html %}
 
 <body>
 
-  {% include navbar.html %}
+  {% include z_navbar.html %}
 
   {{ content }}
 
-  {% include footer.html %}
+  {% include z_footer.html %}
 
 </body>
 

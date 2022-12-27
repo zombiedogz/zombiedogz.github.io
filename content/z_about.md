@@ -1,6 +1,6 @@
 ---
 title: About
-layout: default
+layout: z_default
 ---
 
 # About Zombiedogz

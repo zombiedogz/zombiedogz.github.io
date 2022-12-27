@@ -1,6 +1,6 @@
 ---
 title: Zombiedogz
-layout: default_new
+layout: z_default
 ---
 
 ### My development spot on the intertubes...

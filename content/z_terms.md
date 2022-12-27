@@ -1,6 +1,6 @@
 ---
 title: Terms
-layout: default
+layout: z_default
 ---
 
 # Terms of Service

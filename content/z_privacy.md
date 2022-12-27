@@ -1,6 +1,6 @@
 ---
 title: Privacy
-layout: default
+layout: z_default
 ---
 # Privacy
 

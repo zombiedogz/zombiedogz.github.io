@@ -1,6 +1,6 @@
 ---
 title: In The Beginning
-layout: default
+layout: z_default
 subtitle: "Something big is about to happen"
 date: 2022-12-24 10:00:00 -0400
 ---
