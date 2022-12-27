@@ -7,8 +7,8 @@ layout: default
 
 
 # Web Development - Actively in development
-- [https://zombiedogz.github.io/efsnm/](https://zombiedogz.github.io/efsnm/){:target="_blank"}
-- [https://zombiedogz.github.io/enlow](https://zombiedogz.github.io/enlow){:target="_blank"}
+- [EFSNM](https://zombiedogz.github.io/efsnm/){:target="_blank"}
+- [Enlow](https://zombiedogz.github.io/enlow){:target="_blank"}
 
 ## Private Customer Apps in Production - Public facing
 - [DRXWorks](https://www.drxworks.com/){:target="_blank"}
