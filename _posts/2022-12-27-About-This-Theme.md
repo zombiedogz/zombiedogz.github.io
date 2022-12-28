@@ -2,7 +2,7 @@
 title: About This Theme
 layout: z_default
 subtitle: "A Simple Clean Theme"
-date: 2022-12-28 10:00:00 -0400
+date: 2022-12-27 10:00:00 -0400
 ---
 
 # Keeping it Fast and Simple
