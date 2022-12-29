@@ -3,6 +3,9 @@ title: In The Beginning
 layout: z_default
 subtitle: "Something big is about to happen"
 date: 2022-12-24 10:00:00 -0400
+categories: general
+permalink: /:title
+updated: 2022-12-29 10:00:00 -0400
 ---
 
 # In The Beginning
